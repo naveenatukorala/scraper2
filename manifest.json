@@ -10,7 +10,7 @@
    "description": "Scraper gets data out of web pages and into spreadsheets.",
    "icons": {
       "128": "img/scraper128.png",
-      "16": "img/scraper16.png",
+      "16": "",
       "32": "img/scraper32.png",
       "48": "img/scraper48.png"
    },
